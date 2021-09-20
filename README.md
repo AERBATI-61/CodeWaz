@@ -1,2 +1,2 @@
 # CodeWaz
-For CodeWaz team
+For CodeWaz Team
